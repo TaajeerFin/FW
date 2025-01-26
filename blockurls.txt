@@ -53,7 +53,15 @@ hxxps://oxyhealth.com.sa/pd/?1/
 hxxps://oxyhealth.com.sa/pd/?3075572
 hxxps://oxyhealth.com.sa/pd/?
 incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/67587d1138e2eaa58b5fe2d4 
-https[:]//m0g9861wc1.execute-api.us-east-1.amazonaws.com/uyt/
+https://m0g9861wc1.execute-api.us-east-1.amazonaws.com/uyt/
 8798e8b8f4e866681864c6d2f12738574d6e9ac3b21c3453494e60f648aa13b4
 api.telegram.org
-hxxps[:]//sierrassinfinusadas.com.ar/yak/233_Zipkzypjwys
+hxxps://sierrassinfinusadas.com.ar/yak/233_Zipkzypjwys
+hxxps://api.telegram.org/bot7876448059:AAFalpFHyU5R24fiMM-B_jN6tgNAqi50gGU/sendMessage
+hxxps://api.telegram.org/bot7876448059:AAFalpFHyU5R24fiMM-B_jN6tgNAqi50gGU/sendDocument
+hxxps://drive.usercontent.google.com/download?id=1PyJRDvt6D7_BCZnQXU1sWXtj2BMpMhG2&export=download
+hxxps://drive.google.com/uc?export=download&id=1PyJRDvt6D7_BCZnQXU1sWXtj2BMpMhG2
+hxxp://o.pki.goog/wr2/MFEwTzBNMEswSTAJBgUrDgMCGgUABBRTQtSEi8EX%2BbYUTXd8%2ByMxD3s1zQQU3hse7XkV1D43JMMhu%2Bw0OW1CsjACEEGoFYJ0C3qQCbRh5xcgwPQ%3D
+hxxp://checkip.dyndns.org
+hxxps://reallyfreegeoip.org
+hxxp://v2.microsoft-store.network/favicon.ico
