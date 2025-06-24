@@ -193,3 +193,6 @@ geoplugin.net
 thepioneerbank.com
 www.muscatdutyfree.com
 xwinnet.biz
+pplr-malbbal.s3.ap-northeast-2.amazonaws.com
+abode-dashboard-media.s3.ap-south-1.amazonaws.com
+brandnav-cms-storage.s3.amazonaws.com
