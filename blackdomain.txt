@@ -220,4 +220,7 @@ lin10.croadria.com
 api.telegram.org
 checkip.dyndns.org
 reallyfreegeoip.org
-https://s7voz.mjt.lu/
+smtp.globtour.eu
+globtour.eu
+chandart.ro
+ftp.chandart.ro
