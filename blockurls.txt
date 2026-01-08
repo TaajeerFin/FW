@@ -147,7 +147,7 @@ https://googl-6c11f.web.app/job/9867648797586_Scan_15052025-736574.html
 http://192.3.95.152/cloudshare/atr/pull.pdf
 http://192.3.95.152/cloudshare/atr/trm
 https://t2m.co/VesERXf
-https[:]//api.telegram.org:443/bot7414494371:AAHsrQDkPrEVyz9z0RoiRS5fJKI-ihKJpzQ/sendMessage
+https//api.telegram.org:443/bot7414494371:AAHsrQDkPrEVyz9z0RoiRS5fJKI-ihKJpzQ/sendMessage
 https://api.telegram.org:443/bot7414494371:AAHsrQDkPrEVyz9z0RoiRS5fJKI-ihKJpzQ/sendDocument
 https://www.mediafire.com/file_premium/16lsa0vpoaqioyj/Purchase_Order.js/file
 https://pub-a06eb79f0ebe4a6999bcc71a2227d8e3.r2.dev/pxx.txt
