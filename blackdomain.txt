@@ -463,3 +463,12 @@ support-nrbcommercialbank5.donaldroot.com
 team-mobily5.donaldroot.com
 vakifkatilim.abugida-academy.com
 varders.kozow.com
+bizdomind.com
+check.screenconnect.com
+ec2-3-94-41-198.compute-1.amazonaws.com
+instance-v2e3e2-relay.screenconnect.com
+reallyfreegeoip.org
+siedle-balkan.com
+thelittlecupandsaucer.com.au
+thetamarindleafresidency.com
+wholesale-remits.com
